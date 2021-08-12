@@ -2,10 +2,9 @@
 Based on main stream recommend algorithm / models,  take actions on building open source model, testing , evaluation for douban movie data.
 
 
-小组项目的大纲，大家可以参照哈
+推荐项目任务 - 小组项目的大纲参照
 --
-推荐项目任务：
-- Date: 08/01/2021 - 08/15/2021
+1. Date: 08/01/2021 - 08/15/2021
   - 了解项目背景和基本内容以及评估标准
   - 建立小组公用github，方便分享代码，交流经验
   - 实践第一种解决方案-偏打分的方式--单路打分和预估
