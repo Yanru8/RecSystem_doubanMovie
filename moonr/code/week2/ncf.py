@@ -47,6 +47,6 @@ neural_cf_model = tf.keras.Model(inputs, output_layer)
 neural_cf_model.compile(loss='mse', optimizer='adam')
 
 neural_cf_model.fit(train_dataset, epochs=10)
-test_loss, test_accuracy = neural_cf_model.evaluate(test_dataset)
+test_loss = neural_cf_model.evaluate(test_dataset)
 print('\n\nTest Loss {}'.format(test_loss))
 
